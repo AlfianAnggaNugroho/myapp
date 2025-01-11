@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094814684090",
+    "project_id": "iventory-apps-fe7d1",
+    "storage_bucket": "iventory-apps-fe7d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094814684090:android:bc39b2479f8f2bbc308383",
+        "android_client_info": {
+          "package_name": "com.example.iventori_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDNgqlLMBUJmAEg57Z-km2uJEAS4rA6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094814684090:android:fb49142af7a5afe8308383",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDNgqlLMBUJmAEg57Z-km2uJEAS4rA6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
